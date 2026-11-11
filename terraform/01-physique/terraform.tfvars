@@ -1,0 +1,5 @@
+pve_endpoint  = "https://192.168.2.9:8006/"
+pve_api_token = "terraform@pve!tf=e40e4b44-434d-42b7-801a-26eb2fd90a26"
+pve_node      = "desktop-pve"
+vm_storage    = "sata-thin"
+ssh_pubkey    = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHrNY7OJ0K7WfyEOOndTo0/CKh5NhoDwN4I7GCk5dc6H bastion RPA"
